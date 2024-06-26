@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kr1stoff
 - 👀 I’m interested in game, code
-- 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web full-stack, web crawler
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me kr1stoff7m@gmail.com
 
 <!---
